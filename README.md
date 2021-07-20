@@ -12,6 +12,6 @@
 ## Função de cada opção
 - A opção "Clear some directories" limpa diretórios temporários, como: Temp, Prefetch, etc.
 - A opção "Clear reg keys" limpa algumas chaves de seu regedit que deixam rastros.
-- A opção "Crash some processes" crasha os seguintes processos de seu Windows: DPS, PcaSvc, SearchIndexer & DNSCache, o crash destes processos não influenciam no uso do PC.
+- A opção "Crash some processes" crasha os seguintes processos de seu Windows: DPS, PcaSvc & SearchIndexer. O crash destes processos não influenciam no uso do PC.
 - A opção "Change pc time" muda a hora de seu computador para alguma hora desejada.
 - A opção "Self Delete" deleta o arquivo automaticamente.
